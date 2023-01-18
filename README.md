@@ -1,5 +1,7 @@
 ## Welcome 👋
 ### Let me introduce myself: My name is Alan Mysler and I´m 31 years old. I finished my career as a physician with clinical & oncology related formation but got dazzled by the amazing world of data and IT. Thats when I decided to change the flow of the classic healthcare professional. Initiated my way to become a data scientist by completing Henry´s bootcamp, and I’m certain that this is just the beginning of the journey into this amazing field.
+
+:briefcase: My personal [Linkedin](https://www.linkedin.com/in/amysler)
 <!--
 **amysler/amysler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
